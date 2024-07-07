@@ -96,5 +96,5 @@ The project consists of a backend built with Spring Boot and a frontend using st
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the [MIT License](LICENSE).
 
