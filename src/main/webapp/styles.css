@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+#main {
+    max-width: 600px;
+    margin: auto;
+    text-align: center;
+}
+
+#player-info {
+    margin-top: 20px;
+}
+
+#game-screen {
+    margin-top: 20px;
+}
+
+label {
+    display: block;
+    margin-top: 10px;
+}
